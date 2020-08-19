@@ -1,4 +1,5 @@
-# face_mask_light
+# Face  mask Detection light
+
 ### Create virtualenv
 ```
 virtualenv <env_name>
