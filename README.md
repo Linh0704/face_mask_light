@@ -3,6 +3,7 @@
 ```
 virtualenv <env_name>
 ```
+Activate environment
 
 ### Install required libraries
 ``` python
